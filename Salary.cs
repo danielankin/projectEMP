@@ -12,7 +12,7 @@ using System.Windows.Forms;
 
 namespace EmpMenegement
 {
-   //test
+   //test1
     public partial class Salary : Form
     {
         List<Job> jobs;
